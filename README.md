@@ -21,7 +21,7 @@ This repository contains a collection of automation scripts designed to simplify
 
 1. **Clone this Repository**:
     ```bash
-    git clone https://github.com/your-username/automation.git
+    git clone https://github.com/codebysubhan/automation.git
     ```
 
 2. **Configure Each Script**:
