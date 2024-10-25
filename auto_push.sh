@@ -1,5 +1,5 @@
 #!/bin/bash
-cd "C:\Users\user\Desktop\operating-systems\operating-systems"
+cd "C:\Users\user\Desktop\operating-systems"
 
 if [[ -n $(git status --porcelain) ]]; then
     echo "Changes detected. Enter a commit message: "
